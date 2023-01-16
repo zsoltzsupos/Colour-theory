@@ -1,0 +1,56 @@
+body{
+    margin: 0%;
+}
+
+h1{
+    color: aliceblue;
+    font-size: 7vw;
+    font-family: cursive;
+    margin-top: 0%;
+}
+
+h2{
+    color: aliceblue;
+    font-family: cursive;
+
+}
+
+a{
+    color: black;
+    font-family: cursive;
+    
+}
+.red{
+    background-color: #DC0000;
+    margin: 0%;
+    padding: 5%;
+    text-align: center;
+}
+
+.yellow{
+    background-color: #FFEA20;
+    margin: 0%;
+    padding: 5%;
+    text-align: center;
+}
+
+.green{
+    background-color: #54B435;
+    margin: 0%;
+    padding: 5%;
+    text-align: center;
+}
+
+.blue{
+    background-color: #0081C9;
+    margin: 0%;
+    padding: 5%;
+    text-align: center;
+}
+
+.purple{
+    background-color: #6F1AB6;
+    margin: 0%;
+    padding: 5%;
+    text-align: center;
+}
